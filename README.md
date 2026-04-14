@@ -39,7 +39,14 @@ I help engineering organizations adopt AI across the full software development l
 
 | Project | Description |
 |---|---|
+| [Reddit Profile Analyzer](https://reddit.sergb.com) | Analyze any Reddit profile — activity patterns, top subreddits, karma stats, word cloud |
 | [Kemono Downloader](https://github.com/servika/kemono-downloader) | Node.js tool for archiving posts and media — concurrent downloads, smart resume, error handling |
+
+**Photography**
+
+| Project | Description |
+|---|---|
+| [Photo Gallery](https://ph.sergb.com) | Personal photography collection |
 
 ---
 
