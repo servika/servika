@@ -2,7 +2,7 @@
 
 **Engineering Leader · AI-SDLC Program Lead · Solution Architect**
 
-[![Website](https://img.shields.io/badge/sergb.com-000000?style=flat&logo=About.me&logoColor=white)](https://sergb.com)
+[![Website](https://img.shields.io/badge/sergb.com-000000?style=flat&logo=About.me&logoColor=white)](https://info.sergb.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/serg-bataev)
 [![ELEKS](https://img.shields.io/badge/ELEKS-Engineering-blue?style=flat)](https://eleks.com)
 
